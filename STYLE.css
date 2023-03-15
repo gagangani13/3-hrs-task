@@ -1,0 +1,12 @@
+h1{
+    color: rgb(49, 218, 49);
+    background-color: black;
+    text-align: center;
+}
+.form-check-label{
+    background-color: rgb(122, 219, 31);
+    font-style: italic;
+}
+div{
+    background-color: #e4e9e5d8;
+}
